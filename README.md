@@ -45,20 +45,20 @@ Compile the model using the Adam optimizer and the custom focal loss.
 Train the model with early stopping and model checkpointing.
 After training, the model is evaluated on the test set. Performance metrics calculated include:
 
-Accuracy
-Precision
-Recall
-F1-Score
-Additionally, a confusion matrix is generated to visualize performance.
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Additionally, a confusion matrix is generated to visualize performance.
 
 ## Results
 Upon evaluation, the following metrics are reported:
 
-Accuracy: 
-Precision: 
-Recall: 
-F1-Score: 
-Confusion matrix visualizations are displayed using Matplotlib.
+- Accuracy: 
+- Precision: 
+- Recall: 
+- F1-Score: 
+- Confusion matrix visualizations are displayed using Matplotlib.
 
 ## Dependencies
 This project requires the following Python packages:
