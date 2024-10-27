@@ -16,8 +16,8 @@ This repository contains code for training a deep learning model that uses image
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lxotsi/Crack-Detection-ICIP.git
-   cd Crack-Detection-ICIP
+   git clone https://github.com/lxotsi/Aquatic-Detection-ICIP.git
+   cd Aquatic-Detection-ICIP
 
 2. Install required packages:
    ```bash
