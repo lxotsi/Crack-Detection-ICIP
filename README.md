@@ -1,5 +1,7 @@
 # Aquatic - Problem 4
 Problem-4: Detecting Aquatic Defects Using Underwater Imagery
+The health of aquatic environments is critical for ecological balance and human well-being. This conference challenge aims to address this concern by focusing on the recognizing aquatic defects using underwater imagery. Participants will be provided with a specialized dataset comprising underwater images captured in various aquatic environments.
+
 
 This repository contains code for training a deep learning model that uses image data to detect cracks in aquatic environments. The model leverages the ResNet50 architecture and implements custom loss functions to enhance performance.
 
