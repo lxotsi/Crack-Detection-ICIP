@@ -54,15 +54,6 @@ After training, the model is evaluated on the test set. Performance metrics calc
 - F1-Score
 - Additionally, a confusion matrix is generated to visualize performance.
 
-## Results
-Upon evaluation, the following metrics are reported:
-
-- Accuracy: 
-- Precision: 
-- Recall: 
-- F1-Score: 
-- Confusion matrix visualizations are displayed using Matplotlib.
-
 ## Dependencies
 This project requires the following Python packages:
 
